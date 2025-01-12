@@ -16,7 +16,7 @@ Promotional campaigns often struggle with inefficiencies in targeting and person
 ## 📊 Dataset Overview
 
 ### **Size and Scope**
-- 5 million transactions collected over a 2-year period from an e-commerce platform.
+- 500K transactions collected over a 2-year period from an e-commerce platform.
 
 ### **Data Types**
 The dataset consists of:
