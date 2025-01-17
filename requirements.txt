@@ -3,3 +3,7 @@ numpy
 matplotlib
 sci-kit-learn
 pytorch
+wordcloud
+statsmodels
+textblob
+seaborn
